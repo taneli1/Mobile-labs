@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recap</string>
+    <string name="hello_world">Terve maailma!</string>
+    <string name="button">Vaihda teksti</string>
+    <string name="string_goodbye">Hyvästi %s</string>
+    <string name="string_hello">Moi %s</string>
+    <string name="hint">Type Something</string>
+</resources>

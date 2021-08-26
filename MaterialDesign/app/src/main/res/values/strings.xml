@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Recap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_number_two" translatable="false">Some other filler text</string>
+    <string name="button">Switch text</string>
+    <string name="string_goodbye">Goodbye %s</string>
+    <string name="string_hello">Hello %s</string>
+    <string name="menu_item_battery" translatable="false">String 1</string>
+    <string name="menu_item_settings" translatable="false">String 2</string>
+    <string name="menu_item_more" translatable="false">String 3</string>
+    <string name="button2" translatable="false">Send notif.</string>
+    <string name="hint">Type Something</string>
+</resources>

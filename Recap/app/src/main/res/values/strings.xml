@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Recap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_number_two" translatable="false">2</string>
+    <string name="button">Button</string>
+    <string name="string_goodbye">Goodbye %s</string>
+    <string name="string_hello">Hello %s</string>
+</resources>
