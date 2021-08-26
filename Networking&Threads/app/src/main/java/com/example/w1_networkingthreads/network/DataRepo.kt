@@ -4,9 +4,7 @@ import android.os.Looper
 
 object DataRepo {
 
-    private val looper = Looper.getMainLooper()
-
-    fun fetchTextData(handler: MessageHandler, onDataReceived: (string:String) -> Unit) {
+    fun fetchTextData(handler: SimpleMessageHandler) {
         if (isNetworkAvailable()) {
             val myRunnable = Connection(
                 handler
