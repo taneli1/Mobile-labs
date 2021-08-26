@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coroutines</string>
+    <string name="total">Total here</string>
+    <string name="total_str">Total %s</string>
+</resources>
