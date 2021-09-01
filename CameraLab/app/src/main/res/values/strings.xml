@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraLab</string>
+    <string name="btn">Take pic</string>
+</resources>
