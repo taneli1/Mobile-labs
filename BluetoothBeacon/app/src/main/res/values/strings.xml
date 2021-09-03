@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothBeacon</string>
+    <string name="start">search</string>
+    <string name="placeholder">-</string>
+</resources>
