@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AudioLab</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_record">Record</string>
+    <string name="btn_stop_record">Stop</string>
+    <string name="btn_replay">Play recorded audio</string>
+    <string name="not_recording">Not recording</string>
+    <string name="is_recording">Recording</string>
+</resources>
