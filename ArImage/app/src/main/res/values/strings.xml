@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArImage</string>
+    <string name="txt_image_found_missing_info">Image was found, but more information needed.</string>
+    <string name="txt_track_stop">Stopped tracking</string>
+</resources>
